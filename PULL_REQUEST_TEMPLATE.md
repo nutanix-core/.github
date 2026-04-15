@@ -1,6 +1,6 @@
 ## Description
 
-Please provide a clear and concise description of the changes in this pull requset.  (Hint:  Use Copilot or Cursor to generate this description.)
+Please provide a clear and concise description of the changes in this pull request.  (Hint:  Use Copilot or Cursor to generate this description.)
 
 ## AI percentage
 
